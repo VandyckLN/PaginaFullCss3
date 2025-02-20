@@ -1,0 +1,17 @@
+Página Full CSS3
+Este projeto é uma Landing Page desenvolvida como parte da trilha de CSS da DIO, focada em criar uma experiência visualmente atraente e profissional utilizando apenas HTML e CSS.
+
+Visão Geral
+A página apresenta um design moderno e responsivo, com foco em técnicas avançadas de CSS para criar layouts dinâmicos e estilizados sem o uso de bibliotecas ou frameworks adicionais.
+
+Funcionalidades
+Design Responsivo: O layout se adapta a diferentes tamanhos de tela, garantindo uma experiência de usuário consistente em dispositivos móveis e desktops.
+Animações e Transições: Elementos da página são animados para proporcionar uma navegação mais envolvente.
+Estrutura Modularizada: O conteúdo é organizado em seções distintas para facilitar a leitura e a navegação.
+Estrutura do Projeto
+Header: Contém o banner principal com logo, título e botão de inscrição.
+Main: Dividido em seções que detalham o conteúdo do curso, desafios profissionais e um convite para transformar o mundo com a DIO.
+Footer: Inclui o logotipo da DIO e um link para cadastro.
+Tecnologias Utilizadas
+HTML5: Marcações semânticas para estruturar o conteúdo da página.
+CSS3: Estilização avançada com uso de flexbox, animações e fontes externas para criar um visual atraente.
